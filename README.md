@@ -1,5 +1,7 @@
 # CMSE202_Project_Team_B
 
+# Clone Command: git clone https://github.com/annamelle/CMSE202_Project_Team_B/
+
 # Step 1: Clone Repository and Run all cells in notebook
 
 # First part of the notebook gives initial looks at data tables and shows relationship between day and price on line graph
